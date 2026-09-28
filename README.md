@@ -1,6 +1,6 @@
 # Tráfico ilegal de animales silvestres
 ## Este proyecto es una forma de concientizar a las personas sobre el tráfico ilegal de animales
-**María José
+## María José
 Esta elaborado y diseñado para ser compensible para cualquier porsona que visite el sitio. Además en caso de adultos, sirve para que puedan registrar su firma 
 ##Funciones:
 ###Usuarios
