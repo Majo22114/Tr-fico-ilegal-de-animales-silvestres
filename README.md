@@ -1,11 +1,11 @@
 # Tráfico ilegal de animales silvestres
-## Este proyecto es una forma de concientizar a las personas sobre el tráfico ilegal de animales
+## Este proyecto es una forma de concientizar a las personas sobre el tráfico ilegal de animales y poder recolectar firmas de forma virtual para una leforma de ley.
 ## María José
-Esta elaborado y diseñado para ser compensible para cualquier porsona que visite el sitio. Además en caso de adultos, sirve para que puedan registrar su firma 
+Esta elaborado y diseñado para ser compensible para cualquier porsona que visite el sitio. Además en caso de adultos, sirve para que puedan registrar su firma en caso de querer apoyat el proyecto.
 ## Funciones:
 ### Usuarios
--los usuarios qeu visiten la pagina podran ver lo dañino qeu pede ser la actividad para el planeta
--en caso de ser un adulto responsable podra hacer uso del boton al final de la pagina y poder registrar su firma para ayudar a la alternativa de solucion
+- Los usuarios que visiten la pagina podran ver lo dañino qeu pede ser la actividad para el planeta.
+- Een caso de ser un adulto responsable podra hacer uso del boton al final de la pagina y poder registrar su firma para ayudar a la alternativa de solucion
 ### Interfaz
 - Diseño sencillo e intuitivo.
 - Menú de navegación.
